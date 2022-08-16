@@ -10,7 +10,7 @@ baseURL: 'https://weicome.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hans
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
